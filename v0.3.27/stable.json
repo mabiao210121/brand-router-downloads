@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.3.27",
+  "build_id": "f7f2ee88af0a3084a9fcc8a9eb226e145b788c6cbff2e668f430c317f18ea63b",
+  "sha256": "eb58670271aaaab21a2485753b34f03239cd7ac956177c53b2721bbccc919200",
+  "bytes": 131714,
+  "target": "iStoreOS 24.10 x86_64",
+  "notes": "动态页自动填入已准备业务网口的网络参数；保留已保存方案和手工输入。填入按钮移至网络区域，避免添加代理前重复填写网段。"
+}
