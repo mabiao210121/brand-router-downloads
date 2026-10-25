@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.3.26",
-  "build_id": "a656290182176a8b4ccfac8f2a50805cc77f19c42ebfba014bf0dcc89c62b3ef",
-  "sha256": "ea6d8b42de28bdafa7b38770caddde8351baaee46e6f10936dbda68fe4f29d94",
-  "bytes": 131392,
+  "version": "0.3.27",
+  "build_id": "f7f2ee88af0a3084a9fcc8a9eb226e145b788c6cbff2e668f430c317f18ea63b",
+  "sha256": "eb58670271aaaab21a2485753b34f03239cd7ac956177c53b2721bbccc919200",
+  "bytes": 131714,
   "target": "iStoreOS 24.10 x86_64",
-  "notes": "修复独立动态业务口启用后固定绑定页地址池被误判为需要管理员的问题。地址池读取及修改复用已核实的多网段检查，保留原池及MAC对应关系。继承0.3.25独立管理扩容与动态业务功能。"
+  "notes": "动态页自动填入已准备业务网口的网络参数；保留已保存方案和手工输入。填入按钮移至网络区域，避免添加代理前重复填写网段。"
 }
