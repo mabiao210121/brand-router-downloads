@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.3.28",
+  "build_id": "34bcc6abb534f62ac64f29f5ec640c17585f7aeae3175b1a187b07e997c9b5bb",
+  "sha256": "9e01010b2c8e4101011fb739bcb6ba7593431e1216dc92c41ef08cd15b670ede",
+  "bytes": 131693,
+  "target": "iStoreOS 24.10 x86_64",
+  "notes": "动态页使用已有业务网络，详情默认收起且只读；保存时重新读取网络配置，添加代理无需重复填写网段、网关或地址池。"
+}
