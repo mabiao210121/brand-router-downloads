@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.3.27",
-  "build_id": "f7f2ee88af0a3084a9fcc8a9eb226e145b788c6cbff2e668f430c317f18ea63b",
-  "sha256": "eb58670271aaaab21a2485753b34f03239cd7ac956177c53b2721bbccc919200",
-  "bytes": 131714,
+  "version": "0.3.28",
+  "build_id": "34bcc6abb534f62ac64f29f5ec640c17585f7aeae3175b1a187b07e997c9b5bb",
+  "sha256": "9e01010b2c8e4101011fb739bcb6ba7593431e1216dc92c41ef08cd15b670ede",
+  "bytes": 131693,
   "target": "iStoreOS 24.10 x86_64",
-  "notes": "动态页自动填入已准备业务网口的网络参数；保留已保存方案和手工输入。填入按钮移至网络区域，避免添加代理前重复填写网段。"
+  "notes": "动态页使用已有业务网络，详情默认收起且只读；保存时重新读取网络配置，添加代理无需重复填写网段、网关或地址池。"
 }
