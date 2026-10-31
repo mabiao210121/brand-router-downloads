@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.3.31",
+  "build_id": "f6135c09642cef82d2f074d0f42de98eca3263d78b89d8db9e92f16cdf0260cd",
+  "sha256": "97a7b19f68d3dcb96ab9b3e2096eaf4d0947ecf83e529cce2f6493e600d0d687",
+  "bytes": 136784,
+  "target": "iStoreOS 24.10 x86_64",
+  "notes": "新增前置模式与统一前置池，支持分享链接批量导入、均载及故障恢复。固定MAC/落地SOCKS5不变；业务TCP+DNS，UDP阻断。Trojan跳过证书校验仅兼容仍支持allowInsecure的核心，Xray26.10.31不支持该参数。"
+}
